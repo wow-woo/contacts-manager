@@ -1,0 +1,25 @@
+
+추가점
+
+1.에디트를 누르면 에디트를 위한 form으로 변경되게 한다.
+2.edit을 눌러 current에 저장되 form에 보여지는 중, 해당하는 것을 delete하면 current에서도 삭제된다. 다른 것을 delete했을 때는 current가 유지 된다.
+
+
+***
+need to learn more
+
+what's good on ref hook
+
+
+
+
+***
+component props function  -  다른 url로 보낼 수 있다.
+
+ props.history.push('/');
+
+
+***
+//eslint-disable-next-line
+
+해당하는 것읭 경고가 안내가 필요없는 경우.
